@@ -1,45 +1,45 @@
-📑 Bienestar Digital – Plantilla Web 2025
+📑 Digital Wellbeing – Web Template 2025
 
-Aplicación web desarrollada con HTML5, CSS3 y Bootstrap, enfocada en la presentación visual y estructuración de contenidos dinámicos.
-Este proyecto busca mostrar buenas prácticas de maquetación y diseño web, integrando animaciones, galerías de imágenes e interfaces modernas que pueden servir como base para proyectos académicos, profesionales o empresariales.
+Web application developed with HTML5, CSS3, and Bootstrap, focused on visual presentation and dynamic content structuring.
+This project aims to showcase best practices in web layout and design, integrating animations, image galleries, and modern interfaces that can serve as a foundation for academic, professional, or business projects.
 
-🌟 Objetivo del proyecto
+🌟 Project Objective
 
-El objetivo es implementar una plantilla web adaptable y atractiva, capaz de:
+The goal is to implement an adaptable and attractive web template capable of:
 
-Presentar información de forma clara y responsiva.
+Presenting information in a clear and responsive way.
 
-Utilizar animaciones e íconos para mejorar la experiencia del usuario.
+Using animations and icons to enhance the user experience.
 
-Integrar galerías de imágenes y secciones informativas (ej. equipo, servicios, contacto).
+Integrating image galleries and informative sections (e.g., team, services, contact).
 
-Servir como plantilla para futuros proyectos de portafolios, sitios corporativos o educativos.
+Serving as a template for future portfolio, corporate, or educational websites.
 
-Este proyecto también funciona como un ejemplo educativo para estudiantes o desarrolladores que quieran aprender a estructurar sitios con Bootstrap y CSS personalizados.
+This project also works as an educational example for students or developers who want to learn how to structure websites with Bootstrap and custom CSS.
 
-🚀 Tecnologías principales
+🚀 Main Technologies
 
 Frontend: HTML5, CSS3, Bootstrap, Animate.css
 
-Estilos personalizados: Hojas CSS propias (templatemo_style.css, templatemo_misc.css)
+Custom Styles: Custom CSS files (templatemo_style.css, templatemo_misc.css)
 
-Íconos: Font Awesome + Flexslider icons
+Icons: Font Awesome + Flexslider icons
 
-Recursos gráficos: Imágenes JPG/PNG/WebP optimizadas
+Graphic Resources: Optimized JPG/PNG/WebP images
 
-Fuentes personalizadas: Tipografías locales (Franchise, The Goodfather, Decaydence, etc.)
+Custom Fonts: Local typefaces (Franchise, The Goodfather, Decaydence, etc.)
 
-Control de versiones: Git y GitHub
+Version Control: Git and GitHub
 
-⚙️ Requisitos del sistema
+⚙️ System Requirements
 
-Navegador moderno (Chrome, Firefox, Edge, Safari)
+Modern web browser (Chrome, Firefox, Edge, Safari)
 
-Servidor local opcional (Laragon/XAMPP) si se requiere integración posterior con backend
+Optional local server (Laragon/XAMPP) if later backend integration is required
 
-Git instalado en el sistema (para clonar y versionar el proyecto)
+Git installed on the system (for cloning and versioning the project)
 
-🔧 Instalación y configuración
-1️⃣ Clonar el repositorio
+🔧 Installation and Setup
+1️⃣ Clone the repository
 git clone https://github.com/kePREPRE/Proyecto1-Web.git
 cd Proyecto1-Web
