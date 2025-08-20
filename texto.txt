@@ -1,0 +1,54 @@
+<div class="content-section bg-light" id="bienestar-digital" style="padding: 60px 0;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 style="font-size: 36px; font-weight: bold; margin-bottom: 20px;">
+                    ¿Por qué es importante el Bienestar Digital en la Familia?
+                </h2>
+                <p style="font-size: 20px; max-width: 800px; margin: 0 auto;">
+                    En un mundo cada vez más conectado, enseñar a usar la tecnología con responsabilidad es tan importante como establecer hábitos saludables en casa.
+                </p>
+            </div>
+        </div>
+
+        <div class="row text-center mt-5" style="margin-top: 50px;">
+            <div class="col-md-4">
+                <div class="info-box" style="padding: 20px;">
+                    <i class="fa fa-heart fa-3x text-primary mb-3"></i>
+                    <h4 style="font-size: 24px; margin-top: 15px;">Fortalece los vínculos</h4>
+                    <p style="font-size: 18px;">
+                        Promueve la comunicación cara a cara, el tiempo de calidad y evita el aislamiento dentro del hogar.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="info-box" style="padding: 20px;">
+                    <i class="fa fa-shield fa-3x text-success mb-3"></i>
+                    <h4 style="font-size: 24px; margin-top: 15px;">Protege la salud mental</h4>
+                    <p style="font-size: 18px;">
+                        Limitar el uso excesivo de pantallas reduce el estrés, el insomnio y la ansiedad, sobre todo en niños y adolescentes.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="info-box" style="padding: 20px;">
+                    <i class="fa fa-lightbulb-o fa-3x text-warning mb-3"></i>
+                    <h4 style="font-size: 24px; margin-top: 15px;">Fomenta el aprendizaje</h4>
+                    <p style="font-size: 18px;">
+                        Un entorno digital equilibrado mejora la concentración, la creatividad y el rendimiento académico.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-md-12 text-center">
+                <p style="font-size: 18px; font-style: italic; margin-top: 40px;">
+                    El bienestar digital no se trata de prohibir, sino de guiar. Es una herramienta clave para una familia más consciente, conectada y feliz.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
